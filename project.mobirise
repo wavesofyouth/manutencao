@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-16_1617",
+    "name": "Manutenção",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,13 +36,16 @@
     "siteFonts": [],
     "uniqCompNum": 1,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/wy1-128x128.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Waves Of Youth",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
